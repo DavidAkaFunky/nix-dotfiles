@@ -8,7 +8,7 @@
     dotDir = ".config/zsh";
     autosuggestion.enable = true;
     enableCompletion = true;
-    initExtra = ''
+    initContent = ''
       bindkey ';5D' emacs-backward-word
       bindkey ';5C' emacs-forward-word
       bindkey '^H' backward-kill-word

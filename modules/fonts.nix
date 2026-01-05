@@ -12,7 +12,8 @@
       fira
       _0xproto
       iosevka
-      (nerdfonts.override {fonts = ["JetBrainsMono" "Iosevka"];})
+      nerd-fonts.jetbrains-mono
+      nerd-fonts.iosevka
       noto-fonts-cjk-sans
     ];
   };
